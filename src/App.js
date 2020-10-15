@@ -3,6 +3,8 @@ import './App.css';
 
 import URLs from './componentes/urls';
 
+import Formulario from './componentes/formulario';
+
 class App extends React.Component {
 
   constructor(props) {
@@ -38,6 +40,11 @@ class App extends React.Component {
 
             cambiarURLSoap={this.cambiarURLSoap}
             cambiarURLRest={this.cambiarURLRest}
+          />
+
+          <Formulario 
+            url_soap={this.state.url_soap}
+            url_rest={this.state.url_rest}
           />
         </div>
       );
