@@ -11,8 +11,8 @@ class App extends React.Component {
     super(props);
 
     this.state = {
-      url_soap: "127.0.0.1:5000",
-      url_rest: "127.0.0.1:3000",
+      url_soap: "127.0.0.1:80/RedesWSphp/Soap.php",
+      url_rest: "127.0.0.1:5000",
     }
 
     this.cambiarURLSoap = this.cambiarURLSoap.bind(this);
