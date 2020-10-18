@@ -1,3 +1,8 @@
+# trabajo-rcd-cliente
+Trabajo para Redes y Comunicacion de Datos
+
+Para revisar este proyecto en su conjunto puede visitar la pagina http://186.64.121.196/cliente-rcd/
+
 Si tiene errores con CORS, instale esta extension en Google Chrome [Allow CORS: Access-Control-Allow-Origin](https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=es---------------------------------------------------------------------------------------------------------)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
